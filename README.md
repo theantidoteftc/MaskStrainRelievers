@@ -19,7 +19,7 @@ Hatchbox (Anything really)
 Filament_material:
 PLA or PETG
 
-# Changelog
-###### Version 7
+## Changelog
+##### Version 7 (04/10/2020)
 
 Prongs are now more rounded at the end and fillets have a greater radius to decrease the chance of the prongs catching in hair.
