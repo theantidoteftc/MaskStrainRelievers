@@ -7,6 +7,9 @@ No
 Supports:
 No
 
+Walls:
+4
+
 Resolution:
 0.3mm Layer Height
 
@@ -20,6 +23,10 @@ Filament_material:
 PLA or PETG
 
 ## Changelog
+##### Version 9 (04/12/2020)
+
+Based on local feedback, the thickness of the model has increased by 0.3mm (equal to one layer). Due to the variability in printers and filament flexibilities, there is now a Thicker and Thinner option for you to pick and choose what works best for you. I recommend printing both files and testing the flexibility of both before choosing a certain file. STLs are included as usual, and 3MFs designed specifically for the Ender 3 are now included, making stuff easier on the manufacturing side. Happy printing!
+
 ##### Version 7 (04/10/2020)
 
 Prongs are now more rounded at the end and fillets have a greater radius to decrease the chance of the prongs catching in hair.
