@@ -25,7 +25,7 @@ PLA or PETG
 ## Changelog
 ##### Version 9 (04/12/2020)
 
-Based on local feedback, the thickness of the model has increased by 0.3mm (equal to one layer). Due to the variability in printers and filament flexibilities, there is now a Thicker and Thinner option for you to pick and choose what works best for you. I recommend printing both files and testing the flexibility of both before choosing a certain file. STLs are included as usual, and 3MFs designed specifically for the Ender 3 are now included, making stuff easier on the manufacturing side. Happy printing!
+Based on local feedback, the thickness of the model has increased by 0.3mm (equal to one layer). Due to the variability in printers and filament flexibilities, there is now a Thicker and Thinner option for you to pick and choose what works best for you. The Thinner option consists of 4 layers for the entire model. The Thicker option consists of 4 layers for the base, and an additional layer on the prongs to increase rigidity. I recommend printing both files and testing the flexibility of both before choosing a certain file. STLs are included as usual, and 3MFs designed specifically for the Ender 3 are now included, making stuff easier on the manufacturing side. Happy printing!
 
 ##### Version 7 (04/10/2020)
 
